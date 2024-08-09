@@ -22,7 +22,6 @@ Scatch is a comprehensive eCommerce solution that allows users to browse product
 - **User Authentication**: Secure login and registration.
 - **Product Management**: Browse and search for products.
 - **Shopping Cart**: Add products to cart and manage cart items.
-- **Checkout**: Complete purchases with a simple checkout process.
 - **Admin Dashboard**: Manage products, orders, and users.
 
 ## Technologies
